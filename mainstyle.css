@@ -1,0 +1,120 @@
+<style>
+.sidenav {
+  height: 100%; 
+  width: 160px; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: #111; 
+  overflow-x: hidden; 
+  padding-top: 20px;
+}
+
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+
+.main {
+  margin-left: 160px;
+  padding: 0px 10px;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+h1{
+        text-align: center;
+        color:black;
+       } color: black;
+	           p{
+        font-size: 60px;
+        color: black;
+        font-family: "Century Gothic" ;
+        }
+        h2{
+        text-align: center;
+        color:black;
+		font-size: 20px;
+		}
+		.container{
+		margin:150px auto;
+		width: 50%;
+		padding: 8px;
+		}
+		
+		img{
+		float: left;
+		width: 300px;
+		height: 260px;
+		padding: 0 10px 0 0;
+		}
+		
+		.text{
+		text-align: justify;
+		font-family: Century Gothic;
+		}
+  h1 {
+   font-size:50px;
+   color:black;
+   text-align: center;
+}
+  .container {
+	margin:100px auto;
+	width: 60%;
+	padding: 8px;
+}
+ h2 {
+  font-size:28px;
+  font-style: oblique;
+  text-align: center;
+}
+ h3 {
+  font-size:20px;
+  text-align:left;
+  color:black;
+}
+ h4 {
+  font-size:20px;
+  color:black;
+  text-align: left;
+}
+ p {
+  color: black;
+  font-size:18;
+}
+ img {
+  width:600;
+  height:450;
+  border:solid black 1px; padding: 2px;
+ }
+  .text{
+  text-align:center;
+  font-family: Trajan Pro;
+   color:black;
+   font-size:18px;
+}
+  span#aboutme {
+    
+    font-size:20px;
+    align:center;
+    color:black;
+    font-style:Oblique;
+}
+    
+
+
+</style>
